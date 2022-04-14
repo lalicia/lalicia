@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Fun fact: I dread being asked fun facts/interesting things about myself.  I forget everything I've ever done or liked or achieved in my entire life, and I want a hole to open in the ground and swallow me.
+<br>
+🌱 I’m currently learning: code!  I'm a School of Code Bootcamp 12 bootcamper, and I'm only 1000% intimidated at this point, 11 days before we begin :grin:
+<br>
+🤔 I’m looking for help with: probably most things.  I'm just keepin' it real lol
+<br>
