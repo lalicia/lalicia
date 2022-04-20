@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <br>
 🌱 I’m currently learning: code!  I'm a School of Code Bootcamp 12 bootcamper, and I'm only 1000% intimidated at this point, 11 days before we begin :grin:
 <br>
-🤔 I’m looking for help with: probably most things.  I'm just keepin' it real lol
+🤔 I’m looking for help with: probably most things.  Just keepin' it real lol
 <br>
