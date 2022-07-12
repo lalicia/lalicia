@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, nice to meet you - I'm Alicia :vulcan_salute:</h1>
 
 <p align="center">
-I'm a junior fullstack developer, currently completing a 16 week intensive bootcamp with School of Code.  Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computer and the sitting parts - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands - and I'm never looking back! 
+I'm a junior full stack developer, currently completing a 16 week intensive bootcamp with School of Code.  Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computer and the sitting parts - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands - and I'm never looking back! 
 </p>
 <p align="center"> 
 Outside of coding/learning to code, you'll find me writing stories, listening to music, going out for breakfast, and enjoying the occassional living room disco when I have the house to myself.  But I also love a good Netflix binge, I'm not gonna lie :wink:
@@ -56,9 +56,11 @@ Here are some ideas to get you started:
 
 <br><br>
 ### Some randomness to get to know me :smiley_cat:
-⚡ Fun fact: I'm the proud owner of the original deluxe DVD editions of every season of Buffy TVS - the beautiful book-style boxsets.
+⚡ Fun fact: I'm the proud owner of the original deluxe DVD editions of every season of Buffy TVS.  They cost me an absolute fortune lol
 <br>
-🌱 I’m currently learning: everything.  No really - it never ends!  Right now I'm focussing mostly on React apps and various libraries and frameworks to support frontend development.
+👓 I'm passionate about: Mental Health and kindness.  My favourite type of people are nice people, and the best quality a person can have is kindness.
+<br>
+:seedling: I’m currently learning: everything.  No really - it never ends!  Right now I'm focussing mostly on React apps and various libraries and frameworks to support frontend development.
 <br>
 🤔 I’m looking for help with: Probably a lot, but I will ask very nicely :relaxed:
 <br>
