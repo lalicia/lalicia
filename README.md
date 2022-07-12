@@ -1,4 +1,4 @@
-
+<img src="https://github.com/lalicia/lalicia/blob/main/github_header.JPG" />
 
 <h1 align="center">Hey there, nice to meet you - I'm Alicia :vulcan_salute:</h1>
 
