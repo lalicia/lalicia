@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, nice to meet you - I'm Alicia :vulcan_salute:</h1>
 
 <p align="center">
-I'm a junior full stack developer, currently completing a 16 week intensive bootcamp with School of Code.  Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computer and the sitting parts - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands - and I'm never looking back! 
+I'm a junior full stack developer, currently completing a 16 week intensive bootcamp with School of Code.  Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computers and the sitting - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands - and I'm never looking back! 
 </p>
 <p align="center"> 
 Outside of coding/learning to code, you'll find me writing stories, listening to music, going out for breakfast, and enjoying the occassional living room disco when I have the house to myself.  But I also love a good Netflix binge, I'm not gonna lie :wink:
