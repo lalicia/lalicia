@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ### Some randomness to get to know me :smiley_cat:
 ⚡ Fun fact: I'm the proud owner of the original deluxe DVD editions of every season of Buffy TVS.  They cost me an absolute fortune lol
 <br>
-👓 I'm passionate about: Mental Health and kindness.  My favourite type of people are nice people, and the best quality a person can have is kindness.
+👓 I'm passionate about: Mental Health and kindness.  "Kindness in words creates confidence.  Kindness in thinking creates profoundness.  Kindness in giving creates love" - Lao Tzu
 <br>
 :seedling: I’m currently learning: everything.  No really - it never ends!  Right now I'm focussing mostly on React apps and various libraries and frameworks to support frontend development.
 <br>
