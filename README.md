@@ -64,3 +64,13 @@ Here are some ideas to get you started:
 <br>
 🤔 I’m looking for help with: Probably a lot, but I will ask very nicely :relaxed:
 <br>
+
+### The Stats 📊
+
+![Profile views](https://gpvc.arturio.dev/lalicia)
+
+![](https://github-readme-stats.vercel.app/api?username=lalicia&theme=cobalt&show_icons=true&count_private=true)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lalicia&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalicia&theme=cobalt)
