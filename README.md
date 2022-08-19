@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/lalicia)
 
-![](https://github-readme-stats.vercel.app/api?username=lalicia&theme=cobalt&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=lalicia&theme=tokyonight&show_icons=true&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lalicia&theme=cobalt)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lalicia&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalicia&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=tokyonight)
