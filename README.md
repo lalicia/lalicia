@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with: Probably a lot, but I will ask very nicely :relaxed:
 <br>
 
+<br>
 ### The Stats 📊
 
 ![Profile views](https://gpvc.arturio.dev/lalicia)
