@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 :seedling: I’m currently learning: Everything.  No really - it never ends!  Right now I'm focussing mostly on React apps and various libraries and frameworks to support frontend development.
 <br>
 🤔 I’m looking for help with: Probably a lot, but I will ask very nicely :relaxed:
-<br>
+<br><br>
 
-<br>
+
 ### The Stats 📊
 
 ![Profile views](https://gpvc.arturio.dev/lalicia)
