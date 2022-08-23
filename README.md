@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lalicia&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalicia&theme=tokyonight)
