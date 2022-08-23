@@ -12,7 +12,7 @@ Outside of coding/learning to code, you'll find me writing stories, listening to
 <div align="center">
 
 <!--[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://https://github.com/lalicia/)](https://github.com/lalicia/)--> 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicia-lowe-749a21240)](https://www.linkedin.com/in/alicia-lowe-749a21240)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-lowe/)](https://www.linkedin.com/in/a-lowe/)
 
 </div>
 <br>
