@@ -1,6 +1,9 @@
 <img src="https://github.com/lalicia/lalicia/blob/main/banner.JPG" />
 
-<h1 align="center">Hey there, nice to meet you - I'm Alicia :vulcan_salute:</h1>
+<!--<h1 align="center">Hey there, nice to meet you - I'm Alicia :vulcan_salute:</h1>--!>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=700&lines=Hey+there,+nice+to+meet+you.+I'm+Alicia." alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
 Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computers and the sitting - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands and I'm never looking back!  I graduated from School of Code in August '22 and am now looking for my first role in tech.
