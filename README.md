@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <br>
 :heart: I'm passionate about: Mental Health and kindness.  "Kindness in words creates confidence.  Kindness in thinking creates profoundness.  Kindness in giving creates love" - Lao Tzu
 <br>
-:seedling: I’m currently learning: Everything.  No really - it never ends!  Right now I'm focussing mostly on React apps and various libraries and frameworks to support frontend development.  I'm also completing a Udemy course on SQL and Postgres.
+:seedling: I’m currently learning: Everything.  No really - it never ends!  Right now I'm starting to learn about Microsoft Azure, and working through a Udemy course on SQL and Postgres.
 <br>
 🤔 I’m looking for help with: Probably a lot, but I will ask very nicely :relaxed:
 <br><br>
