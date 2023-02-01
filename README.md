@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computers and the sitting - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands and I'm never looking back!  I graduated from School of Code in August '22 and am now looking for my first role in tech.
+Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computers and the sitting - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands and I'm never looking back!  I graduated from School of Code in August '22 and am shortly entering my first role in tech.
 </p>
 <p align="center"> 
 Outside of coding/learning to code, you'll find me writing stories, listening to music, going out for breakfast, and enjoying the occassional living room disco when I have the house to myself.  But I also love a good Netflix binge, I'm not gonna lie :wink:
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <br>
 :heart: I'm passionate about: Mental Health and kindness.  "Kindness in words creates confidence.  Kindness in thinking creates profoundness.  Kindness in giving creates love" - Lao Tzu
 <br>
-:seedling: I’m currently learning: Everything.  No really - it never ends!  Right now I'm starting to learn about Microsoft Azure, and working through a Udemy course on SQL and Postgres.
+:seedling: I’m currently learning: Everything.  No really - it never ends!  Right now I'm starting to look at Typescript.
 <br>
 🤔 I’m looking for help with: Probably a lot, but I will ask very nicely :relaxed:
 <br><br>
