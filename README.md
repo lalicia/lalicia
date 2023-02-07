@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computers and the sitting - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands and I'm never looking back!  I graduated from School of Code in August '22 and am shortly entering my first role in tech.
+Having worked in front of a computer all my life at many jobs I didn't love, the things I did enjoy were the computers and the sitting - so when I saw the opportunity to train in the uber sit-at-a-computer job, I grabbed it with both hands and I'm never looking back!  I graduated from School of Code in August '22 and started working in my first tech role February '23.
 </p>
 <p align="center"> 
 Outside of coding/learning to code, you'll find me writing stories, listening to music, going out for breakfast, and enjoying the occassional living room disco when I have the house to myself.  But I also love a good Netflix binge, I'm not gonna lie :wink:
