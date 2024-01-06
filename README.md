@@ -20,7 +20,7 @@ Outside of coding/learning to code, you'll find me writing stories, listening to
 </div>
 
 <p align="center">
-Please note: inactivity here doesn't mean I don't code - yeah I've seen those posts and articles lol I'm not allowed to use GitHub for work purposes. So actually, I have even more madskills if you think about it, because I'm adept at a whole OTHER developer platform as well. Take that, green tiles!
+Please note: inactivity here doesn't mean I don't code - yeah I've seen those posts and articles lol <br />I'm not allowed to use GitHub for work purposes. So actually, I have even more madskills if you think about it, because I'm adept at a whole OTHER developer platform as well. Take that, green tiles!
 </p>
 <br>
 
