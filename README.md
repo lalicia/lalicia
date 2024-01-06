@@ -18,6 +18,10 @@ Outside of coding/learning to code, you'll find me writing stories, listening to
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-lowe/)](https://www.linkedin.com/in/a-lowe/)
 
 </div>
+
+<p align="center">
+Please note: inactivity here doesn't mean I don't code - yeah I've seen those posts and articles lol I'm not allowed to use GitHub for work purposes. So actually, I have even more madskills if you think about it, because I'm adept at a whole OTHER developer platform as well. Take that, green tiles!
+</p>
 <br>
 
 ### Tech I've worked with
